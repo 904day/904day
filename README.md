@@ -1,6 +1,6 @@
 # 904day 💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F904day&count_bg=%23FFFFFF&title_bg=%23000000&icon=&icon_color=%23F79D9D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F904day&count_bg=%23FE7373&title_bg=%23FF0000&icon=&icon_color=%23E87C7C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
